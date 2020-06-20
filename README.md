@@ -9,4 +9,4 @@ This repository is a bare-bones Jekyll site hosted on GitHub Pages. The goal is 
 I wrote a blog post that goes into more detail about this.
 
 [GitHub Data In Your Website](http://haacked.com/archive/2014/05/10/github-pages-tricks/)
-hello
+
